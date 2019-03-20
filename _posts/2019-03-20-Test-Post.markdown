@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      New Post Jupyter Test
+title:      ML Mid-term
 author:     Weiye Li
-tags: 		test example graduation
+tags: 		ML test 
 subtitle:  	
 directlinkyn:	y
 directlink: https://github.com/WeiyeLi1995/Projects/blob/master/MidtermWeiyeLi.ipynb
