@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Graduation Portfolio
+title:      Dynamic Time Warping
 author:     Weiye Li
-tags: 		test example graduation
+tags: 		ML   
 subtitle:  	
 category:   project
 pdfLink:    /pdf/a.pdf
