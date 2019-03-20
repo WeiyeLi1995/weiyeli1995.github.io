@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      New Post Jupyter Test
+author:     Weiye Li
+tags: 		test example graduation
+subtitle:  	
+directlinkyn:	y
+directlink: https://gist.github.com/seongwoohong/6be18aed510c895ba6017f1d719e3182
+category:  project
+---
+<!-- Start Writing Below in Markdown -->
+
+# Table of Contents
+
+* TOC
+{:toc}
+
+# I am
+
+King of the world
+
