@@ -5,7 +5,7 @@ author:     Weiye Li
 tags: 		test example graduation
 subtitle:  	
 category:   project
-pdfLink:    https://bayes.wustl.edu/etj/articles/random.pdf
+pdfLink:    /pdf/a.pdf
 ---
 <!-- Start Writing Below in Markdown -->
 

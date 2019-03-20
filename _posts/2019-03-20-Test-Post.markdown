@@ -5,7 +5,7 @@ author:     Weiye Li
 tags: 		test example graduation
 subtitle:  	
 directlinkyn:	y
-directlink: https://gist.github.com/seongwoohong/6be18aed510c895ba6017f1d719e3182
+directlink: https://github.com/WeiyeLi1995/Projects/blob/master/MidtermWeiyeLi.ipynb
 category:  project
 ---
 <!-- Start Writing Below in Markdown -->
